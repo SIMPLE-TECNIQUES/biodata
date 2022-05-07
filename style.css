@@ -1,0 +1,10 @@
+
+img{
+  width:100px;
+height:100px;
+border-radius: 100px;
+}
+body{
+  background-image: url("C:\Users\User\OneDrive\Documents\form\image1\flower.png");
+  background-position:cover;
+}
